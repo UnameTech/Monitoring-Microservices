@@ -120,7 +120,7 @@ This is a **real-world, end-to-end logging architecture implementation** designe
 
 ---
 
-### ✅ Helm-Based Deployment
+###  Helm-Based Deployment
 
 - Using Helm to install EFK components  
 - Managing versions, upgrades, and rollbacks  
