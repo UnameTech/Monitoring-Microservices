@@ -2,7 +2,7 @@
 ---
 ---
 
-#  Module 16: **Logging in Kubernetes with EFK Stack (Elasticsearch, Fluentd, Kibana)**
+# **Logging in Kubernetes with EFK Stack (Elasticsearch, Fluentd, Kibana)**
 
 
 
